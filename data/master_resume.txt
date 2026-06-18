@@ -1,0 +1,17 @@
+YOUR NAME
+you@email.com | +44 7XXX XXX XXX | linkedin.com/in/yourprofile | United Kingdom
+
+PROFESSIONAL SUMMARY
+ML engineer with hands-on experience building LLM applications, RAG pipelines, and data-driven products.
+
+SKILLS
+Python, Machine Learning, LangChain, SQL, PyTorch, RAG, NLP, Streamlit
+
+EXPERIENCE
+ML / AI Developer — Your Company (2023 - Present)
+- Built RAG chatbots using LangChain, Chroma, and Groq/Ollama for document Q&A.
+- Developed Python pipelines for data ingestion, chunking, and vector search.
+- Improved response quality with retrieval tuning and prompt engineering.
+
+EDUCATION
+BSc Computer Science — Your University (2019 - 2023)

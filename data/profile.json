@@ -1,0 +1,119 @@
+{
+  "name": "D. Jagadeesan",
+  "email": "djagadeesan45@gmail.com",
+  "phone": "+91 7904362539",
+  "linkedin": "https://linkedin.com/in/djagadeesan45/",
+  "github": "https://github.com/djaga45",
+  "location": "India",
+  "target_roles": [
+    "Generative AI Engineer",
+    "Gen AI Engineer",
+    "Generative AI Developer",
+    "LLM Engineer"
+  ],
+  "required_keywords": [
+    "generative ai",
+    "gen ai",
+    "genai",
+    "llm",
+    "large language model",
+    "langchain",
+    "rag",
+    "retrieval augmented",
+    "prompt engineer"
+  ],
+  "country_filter": "india",
+  "india_locations": [
+    "india",
+    "bangalore",
+    "bengaluru",
+    "mumbai",
+    "delhi",
+    "hyderabad",
+    "chennai",
+    "pune",
+    "kolkata",
+    "gurgaon",
+    "gurugram",
+    "noida",
+    "coimbatore",
+    "remote india",
+    "asia",
+    "worldwide",
+    "apac"
+  ],
+  "skills": [
+    "Python",
+    "LangChain",
+    "LangGraph",
+    "RAG",
+    "Ollama",
+    "ChromaDB",
+    "Streamlit",
+    "Generative AI",
+    "Large Language Models",
+    "SAP BTP",
+    "Pandas",
+    "NumPy",
+    "Scikit-learn",
+    "Matplotlib",
+    "Seaborn",
+    "Random Forest",
+    "GridSearchCV",
+    "AWS"
+  ],
+  "min_salary_gbp": null,
+  "remote_preference": "remote_or_hybrid",
+  "exclude_keywords": ["unpaid", "volunteer"],
+  "summary": "AI Analyst at Deloitte with hands-on experience building and deploying AI-powered applications on SAP Business Technology Platform (BTP). Pursuing M.Tech in Artificial Intelligence at IIT Jodhpur. Strong practical expertise in Generative AI solutions including RAG-based document Q&A systems using LangChain and Ollama. AWS Certified Solutions Architect Associate. Seeking Generative AI roles to drive real enterprise impact.",
+  "experience": [
+    {
+      "title": "Analyst",
+      "company": "Deloitte",
+      "dates": "07/2024 - Present",
+      "bullets": [
+        "AI Analyst building and deploying AI-powered applications on SAP Business Technology Platform (BTP).",
+        "Develop Generative AI solutions including RAG-based document Q&A systems using LangChain and Ollama.",
+        "Awarded Crown of Excellence for outstanding performance and innovation."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "RAG Chatbot - Local Document Intelligence System",
+      "description": "Built an end-to-end RAG pipeline for PDF/DOCX Q&A with fully local execution using LangChain, Ollama, ChromaDB, and Streamlit.",
+      "bullets": [
+        "Implemented semantic chunking with RecursiveCharacterTextSplitter and nomic-embed-text embeddings.",
+        "Integrated deepseek-r1:8b as local LLM with zero external API dependency for data privacy.",
+        "Optimized retrieval with semantic similarity search and context-aware prompting."
+      ]
+    },
+    {
+      "title": "Medical Insurance Cost Prediction",
+      "description": "Random Forest model to predict healthcare charges with GridSearchCV optimization.",
+      "bullets": [
+        "Built preprocessing pipeline with OneHotEncoder and StandardScaler.",
+        "Performed data quality checks for missing values, duplicates, and skewness on Kaggle dataset."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "PGD and M.Tech in Artificial Intelligence",
+      "institution": "Indian Institute of Technology Jodhpur",
+      "dates": "01/2025 - Present"
+    },
+    {
+      "degree": "B.Tech",
+      "institution": "KPR Institute of Engineering and Technology, Coimbatore",
+      "dates": "05/2024"
+    }
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect Associate"
+  ],
+  "awards": [
+    "Crown of Excellence, Deloitte",
+    "Top 5, Kaggle Open-Source Competition - Earthquake Intensity Prediction Model"
+  ]
+}
